@@ -20,18 +20,6 @@
 
 <img width="1024" height="1024" alt="petzmatch logo" src="https://github.com/user-attachments/assets/88836050-eb19-45da-9f06-95662bbb5ff9" />
 
-
----
-<br>
-
-## 👥 Integrantes do Grupo
-
-- Fernanda Venancio Travassos
-- Maria Eduarda de Brito Oliveira
-- Samuel de Andrade Vasconcelos
-- Sarah Hellen Nascimento
-- Vitória Marques Freire
-
 ---
 <br>
 
